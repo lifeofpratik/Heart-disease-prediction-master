@@ -30,6 +30,7 @@ jobs:
           conda install pip
           #conda install -c conda forge libtiff
           #conda update conda
+          pip install libtiff
           pip install -r requirements.txt
           pip install django==2.2.24
           pip install --upgrade scikit-learn==0.20.3
