@@ -10,7 +10,7 @@ libopencv
 libpng-bins
 #libtiff>=4.0.9
 mkl
-mkl_fft==1.0.6
+#mkl_fft==1.0.6
 mkl-random
 numpy
 opencv-python
